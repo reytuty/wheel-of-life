@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Wheel of life
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Objective: Create a frontend solution for psychologists and psychiatrits put free-form parameters during their anaminesis.
 
-## Available Scripts
+## Beta version
 
-In the project directory, you can run:
+The first version was made for couples and for personal reasons. But it is possible to upgrade for more.
 
 ### `yarn start`
 
